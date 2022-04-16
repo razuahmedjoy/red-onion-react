@@ -1,0 +1,21 @@
+.navbar-container a{
+    text-decoration: none;
+    color: #000;
+}
+.active{
+    color:#dc3545 !important
+}
+a.active button{
+    background-color:#fff !important;
+    color: #dc3545 !important;
+    border:1px solid #dc3545 !important;
+    transition:all 0.5s linear !important;
+    -webkit-transition:all 0.2s linear !important;
+    -moz-transition:all 0.5s linear !important;
+    -ms-transition:all 0.5s linear !important;
+    -o-transition:all 0.5s linear !important;
+}
+a.active:hover button{
+    background-color:#dc3545;
+    color: #fff;
+}

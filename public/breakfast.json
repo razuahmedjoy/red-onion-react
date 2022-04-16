@@ -1,0 +1,50 @@
+[
+    {
+        "id": 0,
+        "picture": "https://i.ibb.co/Q9V84R0/breakfast6.png",
+        "price": 388,
+        "name": "Eunice Dorsey",
+        "short_description": "nisi labore ad commodo consequat sit",
+        "description": "et cupidatat ut et ipsum minim pariatur eiusmod pariatur minim ipsum anim occaecat sit irure"
+    },
+    {
+        "id": 1,
+        "picture": "https://i.ibb.co/wygtfrQ/breakfast5.png",
+        "price": 322,
+        "name": "Briggs Herman",
+        "short_description": "voluptate culpa ipsum culpa reprehenderit tempor anim",
+        "description": "incididunt sunt proident tempor sit reprehenderit cupidatat id dolor tempor ut elit"
+    },
+    {
+        "id": 2,
+        "picture": "https://i.ibb.co/YTstNRM/breakfast4.png",
+        "price": 376,
+        "name": "Angeline Holcomb",
+        "short_description": "aliqua sit cillum ut enim",
+        "description": "incididunt eu mollit incididunt esse consequat consectetur sint nisi anim mollit eu consectetur"
+    },
+    {
+        "id": 3,
+        "picture": "https://i.ibb.co/2WPsmYX/breakfast3.png",
+        "price": 308,
+        "name": "Vickie Mason",
+        "short_description": "aliqua ex adipisicing excepteur eu qui",
+        "description": "ea qui sint duis eiusmod mollit cillum laborum qui esse nisi culpa in Lorem velit sint irure esse veniam pariatur nisi magna laborum anim cillum"
+    },
+    {
+        "id": 4,
+        "picture": "https://i.ibb.co/khBMYRQ/breakfast2.png",
+        "price": 349,
+        "name": "Elizabeth Haley",
+        "short_description": "amet amet qui anim ullamco",
+        "description": "ad in laborum ea tempor occaecat consectetur dolor minim proident aute in nostrud adipisicing cillum dolor deserunt anim est eiusmod officia"
+    },
+    {
+        "id": 5,
+        "picture": "https://i.ibb.co/vDy0p7p/breakfast1.png",
+        "price": 319,
+        "name": "Allie Johnson",
+        "short_description": "occaecat ullamco deserunt velit proident amet",
+        "description": "ad ea id proident ad veniam dolore aliquip id excepteur exercitation ut duis est elit"
+    }
+]
